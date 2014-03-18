@@ -1,0 +1,65 @@
+<!DOCYTIPE>
+<html>
+<head> AUDIO </head>
+<body>
+	<br/> <table> Lista De Reproduccion.....
+<table> 
+<tr>
+&nbsp;<td> Titulo </td>
+&nbsp;<td> Artista </td>
+&nbsp;<td> Pista </td>
+&nbsp;
+</tr>
+</tr>
+&nbsp;<td> chaparrita </td>
+&nbsp;<td> Julion Alvarez  </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\(00)01 - chaparrita enlutadita - julion alvarez.mp3 " controls  loop>
+  </audio> </td>
+&nbsp;
+</tr> 
+</tr>
+&nbsp;<td> El Bandolero </td>   
+&nbsp;<td> B. Carnaval </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\01 - el bandolero(2).mp3 " controls  loop>
+  </audio>  </td> 
+&nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> El Callejero </td>   
+&nbsp;<td> Calibre 50 </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\02 el callejero2319.mp3 " controls  loop>
+  </audio>  </td>
+  &nbsp; 
+</tr> 
+</tr>
+&nbsp;<td> El Chuma </td>   
+&nbsp;<td> Arrolladora </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\01 el chuma479.mp3 " controls  loop>
+  </audio>  </td>
+  &nbsp; 
+</tr> 
+</tr>
+
+&nbsp;<td> El Chuma </td>   
+&nbsp;<td> Arrolladora </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\01 el chuma479.mp3 " controls  loop>
+  </audio>  </td>
+  &nbsp; 
+</tr> 
+</tr>
+
+&nbsp;<td> El Chuma </td>   
+&nbsp;<td> Arrolladora </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\01 el chuma479.mp3 " controls  loop>
+  </audio>  </td>
+  &nbsp; 
+</tr> 
+</tr>
+
+&nbsp;<td> El Chuma </td>   
+&nbsp;<td> Arrolladora </td>
+&nbsp;<td> <audio src=" C:\Users\Hugo\Documents\Muzica.!!\01 el chuma479.mp3 " controls  loop>
+  </audio>  </td>
+</table> 
+
+</body>
