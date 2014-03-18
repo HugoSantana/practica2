@@ -1,0 +1,18 @@
+<!DOCYTIPE>
+<html>
+<head> Video </head>
+<body>
+	<br/> <table> Lista De Videos.....
+<table> 
+<tr>
+&nbsp;<td> Titulo </td>
+&nbsp;
+
+</tr>
+</tr>
+&nbsp;<td> Oswaldo </td>
+&nbsp;<td> <video src=" C:\Users\Hugo\Pictures\Varias\Oswaldo (cronica).mp4 " controls  loop>
+  </video> </td>
+  </table> 
+
+</body>
